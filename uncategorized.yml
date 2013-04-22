@@ -1,0 +1,307 @@
+sizes:
+  - tags: [size, basic]
+  - sizes: kích cỡ
+  - big: to
+  - deep: sâu
+  - long: lâu
+  - narrow: thu hẹp
+  - short: ngắn
+  - small: nhỏ
+  - tall: cao
+  - thick: dày
+  - thin: mỏng
+  - wide: rộng
+tastes:
+  - tags: [food, basic]
+  - tastes: thị hiếu, mùi vị
+  - bitter: đắng
+  - fresh: tươi
+  - salty: mặn
+  - sour: chua
+  - spicy: cay
+  - sweet: ngọt
+qualities:
+  - qualities: phẩm chất
+  - bad: xấu
+  - clean: sạch
+  - dark: bóng tối
+  - difficult: khó khăn
+  - dirty: dơ bẩn
+  - dry: khô
+  - easy: dễ dàng
+  - empty: trống trải
+  - expensive: đắt tiền
+  - fast: nhanh
+  - foreign: nước ngoài
+  - full: đầy đủ
+  - good: tốt
+  - hard: cứng
+  - heavy: nặng
+  - inexpensive: không tốn kém
+  - light: ánh sáng
+  - local: địa phương
+  - new: mới
+  - noisy: ồn ào
+  - old: xưa, cũ, già (while talking about old people)
+  - powerful: quyền lực
+  - quiet: yên tĩnh
+  - correct: chính xác
+  - slow: chậm
+  - soft: mềm
+  - very: rất
+  - weak: yếu
+  - wet: ẩm ướt
+  - wrong: sai
+  - young: trẻ
+foods:
+  - tags: [food]
+  - food: thực phẩm
+  - almonds: hạnh nhân
+  - bread: bánh mì
+  - breakfast: bữa ăn sáng
+  - butter: bơ
+  - candy: kẹo
+  - cheese: pho mát
+  - chicken: gà
+  - cumin: cây thì là
+  - dessert: tráng miệng
+  - dinner: bữa ăn tối
+  - fish: cá
+  - fruit: trái cây
+  - ice cream: kem
+  - lamb: cừu
+  - lemon: chanh
+  - lunch: bữa trưa
+  - meal: bữa ăn
+  - meat: thịt
+  - oven: lò
+  - pepper: tiêu
+  - plants: thực vật
+  - pork: thịt lợn
+  - salad: xà lách
+  - salt: muối
+  - sandwich: sandwich
+  - sausage: xúc xích
+  - soup: súp
+  - sugar: đường
+  - supper: bưa ăn tối
+  - turkey: gà tây
+  - apple: táo
+  - banana: chuối
+  - oranges: cam
+  - peaches: đào
+  - peanut: đậu phộng
+  - pears: lê
+  - pineapple: dứa
+  - grapes: nho
+  - strawberries: dâu
+  - vegetables: rau
+  - carrot: cà rốt
+  - corn: ngô
+  - cucumber: dưa chuột
+  - garlic: tỏi
+  - lettuce: rau diếp
+  - olives: ô-liu
+  - onions: hành tây
+  - peppers: ớt
+  - potatoes: khoai tây
+  - pumpkin: bí đỏ
+  - beans: đậu
+  - tomatoes: cà chua
+
+uncategorized:
+  - alligator: cá sấu
+  - alligators: những con cá sấu
+  - bear: con gấu
+  - bears: những con gấu
+  - bird: chim
+  - birds: những con chim
+  - bull: con bò tót
+  - bulls: những con bò tót
+  - cat: mèo
+  - cats: những con mèo
+  - cow: bò
+  - cows: những con bò
+  - deer: nai
+  - many deer: nhiều hươu
+  - dog: chó
+  - dogs: những con chó
+  - donkey: con lừa
+  - donkeys: những con lừa
+  - eagle: diều hâu
+  - eagles: những con diều hâu
+  - elephant: voi
+  - elephants: những con voi
+  - giraffe: con hươu cao cổ
+  - giraffes: những con hươu cao cổ
+  - goat: con dê
+  - goats: những con dê
+  - horse: ngựa
+  - horses: những con ngựa
+  - lion: sư tử
+  - lions: những con sư tử
+  - monkey: con khỉ
+  - monkeys: những con khỉ
+  - mouse: chuột
+  - mice: những con chuột
+  - rabbit: thỏ
+  - rabbits: những con thỏ
+  - snake: con rắn
+  - snakes: những con rắn
+  - tiger: con hổ
+  - tigers: những con hổ
+  - wolf: chó sói
+  - wolves: những con chó sói
+  - objects: vật thể
+  - bathroom: phòng tắm
+  - bed: giường
+  - bedroom: phòng ngủ
+  - ceiling: trần
+  - chair: ghế
+  - clothes: quần áo
+  - coat: áo khoác
+  - cup: cái ly
+  - desk: bàn
+  - dress: cái váy
+  - floor: sàn
+  - fork: nĩa
+  - furniture: đồ nội thất
+  - glass: ly
+  - hat: nón
+  - house: nhà
+  - ink: mực
+  - jacket: áo khoác
+  - kitchen: nhà bếp
+  - knife: con dao
+  - lamp: đèn
+  - letter: thư
+  - map: bản đồ
+  - newspaper: tờ báo
+  - notebook: sổ ghi chép
+  - pants: quần
+  - paper: giấy
+  - pen: bút
+  - pencil: bút chì
+  - pharmacy: nhà thuốc
+  - picture: hình ảnh
+  - plate: đia
+  - refrigerator: tủ lạnh
+  - restaurant: nhà hàng
+  - roof: mái nhà
+  - room: phòng
+  - rug: 
+  - scissors: kéo
+  - shampoo: gội đầu
+  - shirt: áo sơ mi
+  - shoes: giày
+  - soap: xà phòng
+  - socks: bít tất ngắn
+  - spoon: muỗng
+  - table: cái bàn
+  - toilet: nhà vệ sinh
+  - toothbrush: bản chải đánh răng
+  - toothpaste: kem đánh răng
+  - towel: khăn
+  - umbrella: ô
+  - underwear: đồ lót
+  - wall: tường
+  - wallet: ví
+  - window: cửa sổ
+  - telephone: điện thoại
+  - this: cái này
+  - that: cái đó
+  - these: những cái này
+  - those: những cái đó
+  - Questions: 
+  - how?: làm thế nào?
+  - what?: cái gì?
+  - who?: ai ?
+  - why?: tại sao?
+  - where?: ở đâu?
+  - different objects: vật thể khác nhau
+  - art: nghệ thuật
+  - bank: ngân hàng
+  - beach: bãi biển
+  - book: cuốn sách
+  - by bicycle: bằng xe đạp
+  - by bus: bằng xe bus
+  - by car: bằng xe hơi
+  - by train: bằng xe lửa
+  - cafe: cà phê
+  - country: đất nước
+  - desert: tráng miệng
+  - dictionary: từ điển
+  - earth: trái đất
+  - flowers: những bông hoa
+  - football: bóng bầu dục
+  - forest: khu rừng
+  - game: trò chơi
+  - garden: khu vườn
+  - geography: địa lý
+  - history: lịch sử
+  - house: căn nhà
+  - island: hòn đảo
+  - lake: cái hồ
+  - library: thư viện
+  - math: toán
+  - moon: mặt trăng
+  - mountain: ngọn núi
+  - movies: bộ phim
+  - music: âm nhạc
+  - ocean: đại dương
+  - office: văn phòng
+  - on foot: đi bộ
+  - player: người chơi
+  - river: dòng sông
+  - science: khoa học
+  - sea: biển
+  - sky: bầu trời
+  - soccer: bóng đá
+  - stars: những ngôi sao
+  - supermarket: siêu thị
+  - swimming pool: hồ bơi
+  - theater: nhà hát
+  - tree: cái cây
+  - weather: thời tiết
+  - bad weather: thời tiết xấu
+  - cloudy: nhiều mây
+  - cold: lạnh
+  - cool: mát
+  - foggy: nhiều sương mù
+  - hot: nóng
+  - nice weather: thờ tiết đẹp
+  - pouring: đổ
+  - rain: mưa
+  - raining: trời mưa
+  - snow: tuyết
+  - snowing: tuyết rơi
+  - ice: đá
+  - sunny: nắng
+  - windy: gió
+  - spring: mùa xuân
+  - summer: mùa hè
+  - autumn: mùa thu
+  - winter: mùa đông
+  - people: con người
+  - aunt: dì
+  - baby: em bé
+  - brother: anh em
+  - cousin: anh/chị /em họ
+  - daughter: con gái
+  - dentist: nha sĩ
+  - doctor: bác sĩ
+  - father: cha
+  - grandfather: ông nội/ngoại
+  - grandmother: bà nội/ngoại
+  - husband: chồng
+  - mother: mẹ
+  - nephew: cháu trai
+  - niece: cháu gái
+  - nurse: y tá
+  - policeman: cảnh sát
+  - postman: người đưa thư
+  - professor: giáo sư
+  - son: con trai
+  - teacher: giáo viên
+  - uncle: chú, bác, cậu
+  - wife: vợ
