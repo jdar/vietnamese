@@ -1,0 +1,11 @@
+colors	màu sắc
+black	đen
+blue	màu xanh
+brown	nâu
+gray	màu xám
+green	xanh
+orange	màu da cam
+purple	tím
+red	đỏ
+white	trắng
+yellow	màu vàng
